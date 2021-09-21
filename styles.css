@@ -12,7 +12,7 @@ body {
   background: #f7f5f0;
 }
 .contact {
-  background-image: url(images/contact\ me.png)  ;
+  background-image: url(images/contact\ me.png);
 }
 /* Link Styles */
 
@@ -122,6 +122,10 @@ header .profile-image:hover {
 }
 .card1 h2 {
   text-decoration: underline;
+}
+
+.cards h2 {
+    text-decoration: underline;
 }
 
 ul.skills {
